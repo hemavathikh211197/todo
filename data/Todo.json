@@ -1,0 +1,19 @@
+{
+  "datalist": [
+    {
+      "studentName": "hema",
+      "courseName": "react",
+      "id": 2
+    },
+    {
+      "studentName": "appu",
+      "courseName": "java",
+      "id": 3
+    },
+    {
+      "studentName": "hbae",
+      "courseName": "mongodb",
+      "id": 6
+    }
+  ]
+}
